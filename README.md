@@ -36,7 +36,7 @@ Here are some highlights from my repositories with material of my courses or wor
 
 ## 💡 Let's Connect
 
-- **LinkedIn**: [Julio Waissman](https://www.linkedin.com/in/juliowaissman/)
-- **Unison page**: [julio-waissman.com](https://investigadores.unison.mx/es/persons/julio-waissman-vilanova) *(if available)*
+- [**LinkedIn**](https://www.linkedin.com/in/juliowaissman/)
+- [**Universidad de Sonora page**](https://investigadores.unison.mx/es/persons/julio-waissman-vilanova) 
 
 
