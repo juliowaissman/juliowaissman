@@ -18,22 +18,25 @@ As an educator, I love teaching through project-based strategies, fostering coll
 
 Here are some highlights from my repositories with material of my courses or workshops (all in spanish):
 
-- **[Ingeniería de Características](#)**: Feature Engineering course material.
-- **[Aprendizaje Automñatico Aplicado](#)**: Applied Machine Learning course material.
-- **[Introducciñon a la redes neuronales](#)**: A small introductory workshop of Neural Networks.
+- **[Ingeniería de Características](https://mcd-unison.github.io/ing-caract/)**: Feature Engineering course material.
+- **[Aprendizaje Automñatico Aplicado](https://mcd-unison.github.io/aaa-curso/)**: Applied Machine Learning course material.
+- **[Introducciñon a la redes neuronales](https://juliowaissman.github.io/intro-rn/)**: A small introductory workshop of Neural Networks.
 
 ---
 
+<!---
 ## 🌱 What I’m Working On
 
-- Enhancing my skills in deep learning and advanced algorithms.
 - Developing new tools and frameworks for data analysis.
 - Contributing to open-source projects.
 
 ---
 
+--->
+
 ## 💡 Let's Connect
 
-- **LinkedIn**: [Julio Waissman](#)
-- **Website**: [julio-waissman.com](#) *(if available)*
+- **LinkedIn**: [Julio Waissman](https://www.linkedin.com/in/juliowaissman/)
+- **Unison page**: [julio-waissman.com](https://investigadores.unison.mx/es/persons/julio-waissman-vilanova) *(if available)*
+
 
